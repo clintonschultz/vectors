@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/clintonschultz/Desktop/Spring 2021 NKU/Advanced Programming Methods/Homework Files/main.cpp
+iostream
+-
+vector
+-
+string
+-
+
